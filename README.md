@@ -3,7 +3,7 @@
 A simple web-based dice game built with **HTML**, **CSS**, and **JavaScript**.  
 Two dice are rolled on each refresh, and the winner is determined based on the higher roll.
 
---
+---
 
 ## 🔍 Features
 
